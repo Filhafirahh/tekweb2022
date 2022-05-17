@@ -4,7 +4,7 @@
         "Title": "Seni Tari",
         "Author": "Gramedia Blog",
         "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/94b082de0425ef40cc33c4638b297a7edf2fc0cf/img/tarii.jpg",
-        "Content": "Apa sih HTML itu?",
+        "Content": "Pada dasarnya, seni tari adalah suatu gerakan semua bagian tubuh atau hanya sebagian saja yang dilakukan dengan ritmis....",
         "markdown": "article1.md"
     },
     {
@@ -12,23 +12,23 @@
         "Title": "Menurut Para Ahli",
         "Author": "Gramedia Blog",
         "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/img/unsur%20tari.jpg",
-        "Content": "PHP merupakan singkatan dari PHP: Hypertext Preprocessor. ",
+        "Content": "Beberapa ahli menyatakan pengertiannya terhadap seni tari, sehingga pembaca lebih yakin dan lebih mudah untuk memahami apa itu seni tari.",
         "markdown": "article2.md"
     },
     {
         "ID": "3",
-        "Title": "Web interaktif bagi sekolah",
-        "Author": "Zulkarnaen",
+        "Title": "Unsur Seni Tari",
+        "Author": "Gramedia Blog",
         "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/img/tarii1.jpg",
-        "Content": "Melalui web interaktif, sekolah bisa membuat semacam forum bagi Guru, Orangtua siswa dan peserta didik untuk saling berinteraksi dan berkomunikasi untuk kemajuan sekolah.",
+        "Content": "Seni tari yang sangat memerhatikan gerakan yang berirama memiliki tiga unsur utama....",
         "markdown": "article3.md"
     },
     {
         "ID": "4",
-        "Title": "Web interaktif bagi sekolah",
-        "Author": "Zulkarnaen",
+        "Title": "Fungsi Seni Tari",
+        "Author": "Gramedia Blog",
         "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/img/tari2.jpeg",
-        "Content": "Melalui web interaktif, sekolah bisa membuat semacam forum bagi Guru, Orangtua siswa dan peserta didik untuk saling berinteraksi dan berkomunikasi untuk kemajuan sekolah.",
+        "Content": "Seni tari yang dikenal oleh banyak orang memiliki beberapa fungsi, di antaranya.....",
         "markdown": "article4.md"
     }
 ]
