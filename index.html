@@ -39,8 +39,8 @@
         <section class="banner">
             <div class="container">
                 <div class="banner-left">
-                    <h1>{{ sapa }}</h1>
-                    <h2>{{ h2 }}</h2>
+                    <h1>Hello......</h1>
+                    <h2>Welcome To Portofolio Website</h2>
                     
                 </div>
             </div>
@@ -51,42 +51,21 @@
             <div class="container2">
                 <h3>About Me</h3>
                 <img src="img/uad pride.jpeg">
-                <p>{{ pribadi }}</p>
+                <p>Saya adalah mahasiswi semester 4, prodi Sistem Informasi di Universitas Ahmad Dahlan. Saya lahir di kota Bantul tepatnya pada tanggal 9 bulan September tahun 2002. Dulu saya sekolah menengah kejuruan di kota Makassar yaitu di SMKN 1 Takalar mengambil jurusan Teknik Komputer Jaringan. Saya pernah melakukan PKL atau praktek kerja lapangan pada sebuah tempat service laptop yg berada di kota Makassar yaitu di Mall MTC Makassar. Dari situ saya banyak mendapat pengalaman seperti mengganti baterai, mengganti keyboard tanam dan lain sebagainya.</p>
             </div>
         </section>
 
        
         <section id="Article">
-            <div class="container">
+            <div class="container" id="app">
                 <h3>Article</h3>
-                <div class="col-3">
+                <div class="col-3" v-for="data in articles">
                     <a href="">
                         <img src="img/11.jpg">
-                        <span>Article 1</span>
                     </a>
+                    <h3>{{ data.Title }}</h3>
+                    <p>{{data.Author}}</p>
                 </div>
-
-
-                    <div class="col-3">
-                        <a href="">
-                            <img src="img/33.jpg">
-                            <span>Articel 2</span>
-                        </a>
-                    </div>
-
-                    <div class="col-3">
-                        <a href="">
-                            <img src="img/22.jpg">
-                            <span>Article 3</span>
-                        </a>
-                </div>
-
-                    <div class="col-3">
-                        <a href="">
-                            <img src="img/44.jpg">
-                            <span>Article 4</span>
-                        </a>
-                    </div>
                 
             </div>
         </section>
@@ -124,7 +103,9 @@
                 </div>
             </div>
         </section>
-        <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+        <script src="https://unpkg.com/vue@3"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
         <script src="script.js"></script>
     </div>
     </body>
