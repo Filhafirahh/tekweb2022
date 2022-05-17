@@ -1,16 +1,16 @@
 [
     {
         "ID": "1",
-        "Title": "Mengenal HTML",
-        "Author": "Eko Heri Susanto",
+        "Title": "Seni Tari",
+        "Author": "Gramedia Blog",
         "Pic": "",
         "Content": "Apa sih HTML itu?",
         "markdown": "article1.md"
     },
     {
         "ID": "2",
-        "Title": "PHPMaker, Bukan Pembuat Pemberi Harapan Palsu",
-        "Author": "Masino sinaga",
+        "Title": "Menurut Para Ahli",
+        "Author": "Gramedia Blog",
         "Pic": "",
         "Content": "PHP merupakan singkatan dari PHP: Hypertext Preprocessor. ",
         "markdown": "article2.md"
