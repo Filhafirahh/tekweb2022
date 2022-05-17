@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "1",
+        "Title": "Mengenal HTML",
+        "Author": "Eko Heri Susanto",
+        "Pic": "",
+        "Content": "Apa sih HTML itu?",
+        "markdown": "article1.md"
+    },
+    {
+        "ID": "2",
+        "Title": "PHPMaker, Bukan Pembuat Pemberi Harapan Palsu",
+        "Author": "Masino sinaga",
+        "Pic": "",
+        "Content": "PHP merupakan singkatan dari PHP: Hypertext Preprocessor. ",
+        "markdown": "article2.md"
+    },
+    {
+        "ID": "3",
+        "Title": "Web interaktif bagi sekolah",
+        "Author": "Zulkarnaen",
+        "Pic": "",
+        "Content": "Melalui web interaktif, sekolah bisa membuat semacam forum bagi Guru, Orangtua siswa dan peserta didik untuk saling berinteraksi dan berkomunikasi untuk kemajuan sekolah.",
+        "markdown": "article3.md"
+    },
+    {
+        "ID": "4",
+        "Title": "Web interaktif bagi sekolah",
+        "Author": "Zulkarnaen",
+        "Pic": "",
+        "Content": "Melalui web interaktif, sekolah bisa membuat semacam forum bagi Guru, Orangtua siswa dan peserta didik untuk saling berinteraksi dan berkomunikasi untuk kemajuan sekolah.",
+        "markdown": "article4.md"
+    }
+]
