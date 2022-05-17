@@ -3,7 +3,7 @@
         "ID": "1",
         "Title": "Seni Tari",
         "Author": "Gramedia Blog",
-        "Pic": "https://github.com/Filhafirahh/tekweb2022/blob/main/img/tarii.jpg",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/94b082de0425ef40cc33c4638b297a7edf2fc0cf/img/tarii.jpg",
         "Content": "Apa sih HTML itu?",
         "markdown": "article1.md"
     },
@@ -11,7 +11,7 @@
         "ID": "2",
         "Title": "Menurut Para Ahli",
         "Author": "Gramedia Blog",
-        "Pic": "https://github.com/Filhafirahh/tekweb2022/blob/main/img/unsur%20tari.jpg",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/img/unsur%20tari.jpg",
         "Content": "PHP merupakan singkatan dari PHP: Hypertext Preprocessor. ",
         "markdown": "article2.md"
     },
@@ -19,7 +19,7 @@
         "ID": "3",
         "Title": "Web interaktif bagi sekolah",
         "Author": "Zulkarnaen",
-        "Pic": "https://github.com/Filhafirahh/tekweb2022/blob/main/img/tarii1.jpg",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/img/tarii1.jpg",
         "Content": "Melalui web interaktif, sekolah bisa membuat semacam forum bagi Guru, Orangtua siswa dan peserta didik untuk saling berinteraksi dan berkomunikasi untuk kemajuan sekolah.",
         "markdown": "article3.md"
     },
@@ -27,7 +27,7 @@
         "ID": "4",
         "Title": "Web interaktif bagi sekolah",
         "Author": "Zulkarnaen",
-        "Pic": "https://github.com/Filhafirahh/tekweb2022/blob/main/img/tari2.jpeg",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/img/tari2.jpeg",
         "Content": "Melalui web interaktif, sekolah bisa membuat semacam forum bagi Guru, Orangtua siswa dan peserta didik untuk saling berinteraksi dan berkomunikasi untuk kemajuan sekolah.",
         "markdown": "article4.md"
     }
