@@ -61,7 +61,7 @@
                 <h3>Article</h3>
                 <div class="col-3" v-for="data in articles">
                     <a href="">
-                        <img src="img/11.jpg">
+                        <img :src="data.Pic">
                     </a>
                     <h3>{{ data.Title }}</h3>
                     <p>{{data.Content}}</p>
