@@ -1,0 +1,31 @@
+## Taksonomi  dan   Evolusi
+
+Felidae adalah familia mamalia yang berevolusi dengan cepat yang berbagi nenek moyang yang sama hanya 10–15 juta tahun yang lalu dan mencakup singa, harimau, cougar dan banyak lainnya. Dalam familia ini, kucing domestik (Felis catus) merupakan bagian dari genus Felis, yang merupakan kelompok kucing kecil yang berisi sekitar tujuh spesies (tergantung pada skema klasifikasi). Anggota dari genus ini ditemukan di seluruh dunia dan termasuk kucing hutan (Felis chaus) dari tenggara Asia, kucing liar Eropa (F. silvestris silvestris), kucing liar Afrika (F. s. lybica), kucing gunung Cina (F. bieti), dan kucing pasir Arab (F. margarita).
+
+Kucing domestik pertama kali diklasifikasikan sebagai Felis catus oleh Carolus Linnaeus dalam edisi ke-10 Systema Naturae-nya yang diterbitkan pada tahun 1758. Karena filogenetika modern, kucing domestik biasanya dianggap sebagai subspesies dari kucing liar, F. silvestris. Hal ini mengakibatkan penggunaan istilah yang bercampur, karena kucing domestik dapat disebut dengan nama subspesiesnya, Felis silvestris catus. Kucing liar juga telah disebut sebagai berbagai subspesies F. catus, tetapi pada tahun 2003, International Commission on Zoological Nomenclature menetapkan nama untuk kucing liar sebagai F. silvestris. Nama yang paling umum digunakan untuk kucing domestik tetap F. catus, mengikuti konvensi untuk hewan peliharaan menggunakan sinonim pertama (senior) yang diusulkan. Kadang-kadang, kucing domestik disebut sebagai Felis domesticu atau Felis domestica, seperti yang diusulkan oleh naturalis Jerman J. C. P. Erxleben pada tahun 1777 tetapi ini bukan nama-nama taksonomi valid dan jarang digunakan dalam literatur ilmiah, karena binomial Linnaeus diutamakan.Sebuah populasi kucing liar hitam Transkaukasia pernah diklasifikasikan sebagai Felis daemon (Satunin 1904) tetapi sekarang populasi ini dianggap menjadi bagian dari kucing domestik.
+
+Semua kucing dalam genus ini berbagi nenek moyang yang sama yang mungkin hidup sekitar 6–7 juta tahun yang lalu di Asia. Hubungan yang tepat dalam Felidae dekat tetapi masih belum pasti, misalnya kucing gunung Cina (Felis silvestris bieti) kadang-kadang diklasifikasikan sebagai upaspesies kucing liar, seperti varietas Afrika Utara F. s. lybica.
+
+Dibandingkan dengan anjing, kucing tidak mengalami perubahan besar selama proses domestikasi, karena bentuk dan perilaku kucing domestik tidak secara radikal berbeda dari kucing liar dan kucing domestik sangat mampu bertahan di alam liar. Kucing rumah yang sepenuhnya dijinakkan sering kawin silang dengan populasi F. catus liar. Evolusi terbatas selama domestikasi ini berarti bahwa hibridisasi dapat terjadi dengan banyak Felidae lainnya, terutama kucing leopard Asia. Beberapa perilaku alami dan karakteristik kucing liar mungkin telah memengaruhi mereka untuk didomestikasi sebagai hewan peliharaan. Karakter ini termasuk ukuran kecil, sifat sosial, bahasa tubuh yang jelas, suka bermain dan kecerdasan relatif tinggi. Beberapa spesies Felidae kecil mungkin memiliki kecenderungan bawaan terhadap kejinakan.
+
+Kucing memiliki hubungan mutualistik atau komensal dengan manusia. Dua teori utama diberikan tentang bagaimana kucing didomestikasi. Dalam satu teori, orang sengaja menjinakkan kucing dalam proses seleksi buatan karena mereka adalah predator dari hama. Ini telah dikritik sebagai tidak masuk akal, karena hadiah untuk usaha seperti itu mungkin terlalu sedikit; kucing umumnya tidak melaksanakan perintah dan meskipun mereka makan hewan pengerat, spesies lain seperti ferret atau terrier mungkin lebih baik dalam mengendalikan hama-hama ini. Ide alternatif adalah bahwa kucing hanya ditoleransi oleh orang-orang dan secara bertahap menyimpang dari kerabat liar mereka melalui seleksi alam, karena mereka menyesuaikan dengan berburu hama yang ditemukan di sekitar manusia di kota dan desa.
+
+
+## Perilaku  Kucing
+
+> Mendengkur
+
+Kucing mendengkur ketika dia akan senang dan bahagia. Kucing merupakan satu-satunya hewan yang dapat mengeluarkan suara dengkuran. Dengkuran biasanya merupakan tanda kepuasan hati pada kucing, namun ada beberapa penyebab lain jika kucing mendengkur. Penyebab lain kucing mendengkur ketika dia akan mati dan sakit, agar dapat membuatnya menjadi nyaman dan mengurangi stres. Selain itu, kucing akan mendengkur ketika akan melahirkan dan anaknya akan mendengkur ketika sedang menyusui.
+
+Gelombang Hertz pada dengkuran kucing berkisar antara 25 hingga 150. Pada batas lebih rendah, dengkuran kucing memiliki kecepatan getaran yang sama dengan mesin diesel yang sedang menyala. Dengkuran kucing juga dipercayai dapat mengurangi rasa stres dan mengurangi depresi. Selain kucing, spesies lain dalam keluarga kucing yang juga dapat mendengkur adalah kucing hutan, cheetah, lynx dan puma. Namun, pada harimau, singa dan macan tidak dapat mendengkur, karena menurut para ahli kucing-kucing besar yang dapat mengeluarkan suara auman tidak memiliki kemampuan untuk mendengkur.
+
+
+> Memijat
+
+Memijat adalah salah satu kegiatan yang juga dilakukan oleh kucing. Kucing memijat dengan cara menekankan telapak tangannya secara bergantian (kanan dan kiri), dan ada juga yang memijat dengan menarik (mengeluarkan) cakarnya. Kucing biasanya memijat manusia atau kucing lain dengan disertai suara dengkuran.
+
+Ketika anak kucing sedang menyusui, mereka pasti akan memijat-mijat perut induknya. Hal ini dilakukan untuk melancarkan aliran air susu melalui puting-puting induknya. Jika kucing memijat pemiliknya, hal tersebut telah menandakan bahwa mereka merasa aman dan nyaman. Selain itu, dia juga telah mengklaim orang yang dipijatnya sebagai pemiliknya.
+
+> Reflek  Meluruskan
+
+Refleks meluruskan adalah kemampuan yang dimiliki oleh kucing untuk mengarahkan tubuhnya ketika jatuh dengan benar. Kemampuan ini akan dimilikioleh kucing ketika berumur 3-4 minggu, dan akan sempurna ketika berumur 7 minggu. Kemampuan ini dapat dilakukan oleh kucing karena kucing memiliki tulang punggung yang sangat fleksibel dan memiliki tulang selangka yang fungsional.
