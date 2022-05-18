@@ -19,7 +19,7 @@ Unsur utama yang harus ada di dalam tari yang terakhir adalah unsur wirasa atau 
 1. Iringan 
 Seni tari yang diiringi dengan musik akan membuat setiap gerakan tari yang dibawakan oleh penari menjadi berirama dan ritmis. Perpaduan gerakan dengan iringan musik inilah yang dapat mendukung seni tari menjadi banyak dilihat oleh banyak orang karena memiliki daya Tarik yang cukup memikat.
 
-Akan tetapi, seni tari bukan hanya bisa diriingi dengan musik saja, tetapi iringan ini bisa berasal dari penari itu sendiri, seperti teriakan, hentakan tepukan, dan sebagainya. Iringan yang berasal dari penari itu sendiri akan meningkatkan keindahan dari sebuah seni tari yang sedang dibawakan.
+>Akan tetapi, seni tari bukan hanya bisa diriingi dengan musik saja, tetapi iringan ini bisa berasal dari penari itu sendiri, seperti teriakan, hentakan tepukan, dan sebagainya. Iringan yang berasal dari penari itu sendiri akan meningkatkan keindahan dari sebuah seni tari yang sedang dibawakan.
 
 2. Kostum
 Kostum menjadi unsur pendukung dari suatu seni tari, setiap kostum harus disesuaikan dengan suasana dan jenis tari yang akan dibawakan. Selain itu, seni tari yang berasal dari suatu daerah akan menggunakan kostum darimana seni tari tersebut berasal. Dengan dukungan dari kostum daerah yang dikenakan oleh penari, maka suasana kedaerahan akan tersampaikan kepada orang-orang yang melihat seni tari.
