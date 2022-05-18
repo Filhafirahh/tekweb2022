@@ -30,7 +30,7 @@ Selain kostum, tata rias merupakan unsur dukungan dari seni tari. Jika, penari t
 4. Pola Lantai atau Blocking
 Seni tari yang sangat memfokuskan pada gerakan yang ritmis akan membuat penari tidak hanya berdiam diri saja, tetapi akan pindah dari tempat yang satu ke tempat lainnya. Oleh sebab itu, penari harus pandai untuk menguasai panggung agar setiap gerakan yang ditampilkan bisa memikat daya tarik para penonton.
 
-Penguasaan panggung ini bisa dilakukan dengan cara melakukan latihan sebelum tampil, posisi dari para penonton, dan ukuran dari panggung atau tempat. Penguasaan panggung yang sudah dimiliki oleh penari bisa membuat tarian yang ditampilkan akan terlihat lebih istimewa. Apabila suatu tarian dibawakan dengan cara berkelompok, maka penguasaan panggung harus lebih teliti agar sesama penari bisa melakukan gerak tari dengan maksimal.
+>Penguasaan panggung ini bisa dilakukan dengan cara melakukan latihan sebelum tampil, posisi dari para penonton, dan ukuran dari panggung atau tempat. Penguasaan panggung yang sudah dimiliki oleh penari bisa membuat tarian yang ditampilkan akan terlihat lebih istimewa. Apabila suatu tarian dibawakan dengan cara berkelompok, maka penguasaan panggung harus lebih teliti agar sesama penari bisa melakukan gerak tari dengan maksimal.
 
 5. Gerakan 
 Dalam unsur pendukung gerakan tarian, penari bisa mengombanisikan gerakan tarian dengan beberapa gerakan tambahan, seperti tepukan, hentakan, dan lain-lain. Selain itu, gerakan bukan hanya berasal dari kaki atau tangan saja, tetapi ekspresi wajah harus diperhatikan juga. Suatu tarian yang diberikan gerakan tambahan sekaligus ekspresi wajah, maka bisa meningkatkan nilai estetika dalam tarian tersebut.
