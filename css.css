@@ -249,6 +249,7 @@ section h3::after {
 
 .col-4{
     width: 25%;
+    height: 400px;
     box-sizing: border-box;
     padding: 5px;
     float: left;
