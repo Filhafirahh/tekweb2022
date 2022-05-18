@@ -55,23 +55,23 @@
             </div>
         </section>
 
-       
-        <section id="Article">
-            <div class="container" id="app">
-                <h3>Article</h3>
-                <div class="col-3" v-for="data in articles">
-                    <a href="">
-                        <img :src="data.Pic">
-                    </a>
-                    <h3>{{ data.Title }}</h3>
-                    <p>{{data.Content}}</p>
-                    <br>
-                    <p>{{data.Author}}</p>
+        <div class="paralax">   
+            <section id="Article">
+                <div class="container" id="app">
+                    <h3>Article</h3>
+                    <div class="col-3" v-for="data in articles">
+                        <a href="">
+                            <img :src="data.Pic">
+                        </a>
+                        <h3>{{ data.Title }}</h3>
+                        <p>{{data.Content}}</p>
+                        <br>
+                        <p>{{data.Author}}</p>
+                    </div>
+                    
                 </div>
-                
-            </div>
-        </section>
-
+            </section>
+        </div>
         
         <section id="portfolio">
             <div class="container">
@@ -80,6 +80,7 @@
                     <a href="">
                         <img src="img/DM.jpeg">
                         <span>Tari Sun Kembang Using</span>
+                        <br>
                         <p>Acara Dance Movement 8 pada tanggal 9 Januari 2022, bertempat di Taman Budaya Yogyakarta</p>
                     </a>
                 </div>
@@ -88,6 +89,7 @@
                     <a href="">
                         <img src="img/Milad Pramuka.jpeg">
                         <span>Tari Sekar Anandhi</span>
+                        <br>
                         <p>Acara Milad Pramuka, bertempat di Kampus 3 Universitas Ahmad Dahlan</p>
                     </a>
                 </div>
@@ -96,6 +98,7 @@
                     <a href="">
                         <img src="img/Closing.jpeg">
                         <span>Tari Muli Bekipas</span>
+                        <br>
                         <p>Acara Closing Milad FAST pada tanggal 26 Februari 2022, bertempat di Kampus 4 Universitas Ahmad Dahlan</p>
                     </a>
                 </div>
@@ -104,6 +107,7 @@
                     <a href="">
                         <img src="img/Sekar Anandhi.jpeg">
                         <span>Tari Sekar Anandhi</span>
+                        <br>
                         <p>Pembuatan video tari bertempat di Kampus 4 Universitas Ahmad Dahlan</p>
                     </a>
                 </div>

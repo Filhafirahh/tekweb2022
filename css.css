@@ -262,6 +262,22 @@ section h3::after {
 .col-4 a:hover img{
     transform: scale(1.1);
 }
+
+.paralax{
+    background-image: url(img/rrrr.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 864px;
+    width: 100%;
+    background-color: none;
+}
+
+
+
+
+
 @media (max-width : 768px){
     .mobile-menu {
         display: block;
