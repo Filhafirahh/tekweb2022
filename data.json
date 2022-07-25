@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "1",
+        "Title": "Pengertian",
+        "Author": "Gramedia Blog",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/images/aset/t.png",
+        "Content": "Pada dasarnya, seni tari adalah suatu gerakan semua bagian tubuh atau hanya sebagian saja yang dilakukan dengan ritmis....",
+        "markdown": "ar1.md"
+    },
+    {
+        "ID": "2",
+        "Title": "Menurut Para Ahli",
+        "Author": "Gramedia Blog",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/images/aset/a.png",
+        "Content": "Beberapa ahli menyatakan pengertiannya terhadap seni tari, sehingga pembaca lebih yakin dan lebih mudah untuk memahami apa itu seni tari.",
+        "markdown": "ar2.md"
+    },
+    {
+        "ID": "3",
+        "Title": "Unsur-unsur",
+        "Author": "Gramedia Blog",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/images/aset/r.png",
+        "Content": "Seni tari yang sangat memerhatikan gerakan yang berirama memiliki tiga unsur utama....",
+        "markdown": "ar3.md"
+    },
+    {
+        "ID": "4",
+        "Title": "Fungsi",
+        "Author": "Gramedia Blog",
+        "Pic": "https://raw.githubusercontent.com/Filhafirahh/tekweb2022/main/images/aset/i.png",
+        "Content": "Seni tari yang dikenal oleh banyak orang memiliki beberapa fungsi, di antaranya.....",
+        "markdown": "ar4.md"
+    }
+]
