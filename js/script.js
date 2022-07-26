@@ -1,4 +1,4 @@
-let apiUrl = "http://api.filhafirah.my.id/"
+let apiUrl = "https://api.filhafirah.my.id/"
 let app = Vue.createApp({
     data() {
       return {
